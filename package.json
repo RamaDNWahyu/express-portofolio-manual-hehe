@@ -1,0 +1,22 @@
+{
+  "name": "express-portofolio",
+  "version": "1.0.0",
+  "description": "web portofolio untuk belajar",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portofolio",
+    "web"
+  ],
+  "author": "Ranma",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.2"
+  }
+}
