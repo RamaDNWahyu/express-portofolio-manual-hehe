@@ -6,7 +6,7 @@ const data = {
         },
         navLinks: [
             {
-                name:   `Home`,
+                name:   `Beranda`,
                 url:    `#app`
             },
             {
@@ -14,17 +14,17 @@ const data = {
                 url:    `#about`
             },
             {
-                name:   `Projects`,
+                name:   `Projek`,
                 url:    `#projects`
             },
             {
-                name:   `Contact`,
+                name:   `Hubungi Saya`,
                 url:    `#contact`
             }
         ]
     },
     jumbo: {
-        text: `Hi, I'm Louis. I design & build websites.`,
+        text: `Hi, I'm Loosen. I design & build websites.`,
         buttonText: `Yes, I'm available for hire.`,
         buttonLink: `#contact`,
         scrollDownLink: '#about',
