@@ -1,22 +1,22 @@
 const data = {
     nav: {
         title: {
-            text: `Louis Iaeger V`,
+            text: `Loosen Memories`,
             link: `#app`
         },
         navLinks: [
             {
                 name:   `Home`,
                 url:    `#app`
-            }, 
+            },
             {
                 name:   `About`,
                 url:    `#about`
-            }, 
+            },
             {
                 name:   `Projects`,
                 url:    `#projects`
-            }, 
+            },
             {
                 name:   `Contact`,
                 url:    `#contact`
